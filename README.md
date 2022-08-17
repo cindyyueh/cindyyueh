@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cindyyueh
-- 👀 I’m interested in Machine Learning!
-- 🌱 I’m currently learning React!
+- 👀 I’m interested in Data Visualization!
+- 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on ~my future~
 - 📫 How to reach me cindyyuehh@gmail.com
 
